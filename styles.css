@@ -271,10 +271,13 @@ a.link:hover {
 }
 
 .instagram {
-  background-color: #c13584;
-  box-shadow: 8px 8px 14px -8px #c13584;
+  background-color: white;
+  box-shadow: 8px 8px 14px -8px white;
 }
-
+.website {
+  background-color: white;
+  box-shadow: 8px 8px 14px -8px white ;
+}
 .linkedin {
   background-color: #0077b5;
   box-shadow: 8px 8px 14px -8px #0077b5;
